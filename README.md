@@ -1,8 +1,8 @@
-#From 15+ Years in Customer Service to Full-Stack Developer:
+From 15+ Years in Customer Service to Full-Stack Developer:
  
-##Hello I am Istafa Anthony Marshall 
+Hello I am Istafa Anthony Marshall 
 
-###In a world where technology evolves by the minute, it’s easy for developers to lose sight of the end user. But for me, Istafa Anthony Marshall, the user has always been at the forefront of what I do, even before I took the coding plunge. How so? For over 15 years, I immersed myself in the demanding but rewarding realm of customer service across various industries. This experience has given me a profound understanding of people, their pain points, their desires, and the tiny inconveniences they face that technology can solve. It's this very human-centric perspective that I bring into my life as a full-stack developer today.
+In a world where technology evolves by the minute, it’s easy for developers to lose sight of the end user. But for me, Istafa Anthony Marshall, the user has always been at the forefront of what I do, even before I took the coding plunge. How so? For over 15 years, I immersed myself in the demanding but rewarding realm of customer service across various industries. This experience has given me a profound understanding of people, their pain points, their desires, and the tiny inconveniences they face that technology can solve. It's this very human-centric perspective that I bring into my life as a full-stack developer today.
 
 As someone who has managed emergency services, coordinated with technicians, and facilitated countless customer interactions, I've come to realize that good service is not just about immediate solutions—it's about creating systems that anticipate needs and address them proactively. The same principle applies to technology. We don’t just need apps and websites that are functional; we need those that 'understand' the user. That’s why, after 15 years in customer service, I decided to turn toward software engineering as a second act in my professional journey. I wanted to create technological solutions as intuitive and responsive as a seasoned customer service rep.
 
