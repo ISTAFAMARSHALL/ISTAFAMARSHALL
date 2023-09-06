@@ -8,5 +8,6 @@ My recent graduation from Flatiron School was an exhilarating period of growth. 
 
 The beauty of coupling technical skills with customer service acumen—you start to see technology not just as code, but as an experience, an interface between people and machines that should be as smooth as possible. I'm not just a developer; I am an experience creator. I don’t just solve problems; I anticipate them. As I continue to learn and grow in this ever-evolving field, my mission is simply to create innovative, user-centric applications that solve real-world problems and make people's lives a little bit easier.
 
+---
 
-:#181717:
+![alt text](image.jpg)
