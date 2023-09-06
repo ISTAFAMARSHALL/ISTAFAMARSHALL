@@ -10,6 +10,8 @@ The beauty of coupling technical skills with customer service acumen—you start
 
 [#0A66C2](https://www.google.com)
 
+img height="20"src="https://img.icons8.com/color/452/graphql.png"
+
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
