@@ -9,7 +9,10 @@ My recent graduation from Flatiron School was an exhilarating period of growth. 
 The beauty of coupling technical skills with customer service acumen—you start to see technology not just as code, but as an experience, an interface between people and machines that should be as smooth as possible. I'm not just a developer; I am an experience creator. I don’t just solve problems; I anticipate them. As I continue to learn and grow in this ever-evolving field, my mission is simply to create innovative, user-centric applications that solve real-world problems and make people's lives a little bit easier.
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Get In Touch
+#0A66C2 #181717 #000000
 
+Skills
+#F7DF1E #61DAFB #CC342D #CC0000 
 
 ![Istafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=istafamarshall&show_icons=true&bg_color=00000000)
