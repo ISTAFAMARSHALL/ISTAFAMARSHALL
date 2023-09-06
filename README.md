@@ -7,3 +7,6 @@ I've come to realize that good service is not just about immediate solutions it'
 My recent graduation from Flatiron School was an exhilarating period of growth. I gained hands-on experience in both front-end and back-end technologies. The unique edge I bring stems from my prior life in customer service. When I code, I am not just thinking about syntax and function; I am thinking about that end-user who will interact with my creation.
 
 The beauty of coupling technical skills with customer service acumen—you start to see technology not just as code, but as an experience, an interface between people and machines that should be as smooth as possible. I'm not just a developer; I am an experience creator. I don’t just solve problems; I anticipate them. As I continue to learn and grow in this ever-evolving field, my mission is simply to create innovative, user-centric applications that solve real-world problems and make people's lives a little bit easier.
+
+
+:#181717:
