@@ -10,4 +10,4 @@ The beauty of coupling technical skills with customer service acumen—you start
 
 ---
 
-![alt text](image.jpg)
+![LinkedIn](image.jpg)
