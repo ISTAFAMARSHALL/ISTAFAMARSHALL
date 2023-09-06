@@ -8,6 +8,16 @@ My recent graduation from Flatiron School was an exhilarating period of growth. 
 
 The beauty of coupling technical skills with customer service acumen—you start to see technology not just as code, but as an experience, an interface between people and machines that should be as smooth as possible. I'm not just a developer; I am an experience creator. I don’t just solve problems; I anticipate them. As I continue to learn and grow in this ever-evolving field, my mission is simply to create innovative, user-centric applications that solve real-world problems and make people's lives a little bit easier.
 
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[#0A66C2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 [#0A66C2](https://www.google.com)
 
 <img height="20"src="https://img.icons8.com/color/452/graphql.png">
