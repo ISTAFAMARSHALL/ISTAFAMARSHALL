@@ -1,6 +1,4 @@
-From 15+ Years in Customer Service to Full-Stack Developer:
- 
-Hello I am Istafa Anthony Marshall 
+Hello I'm Istafa Anthony Marshall 
 
 In a world where technology evolves by the minute, it’s easy for developers to lose sight of the end user. But for me, Istafa Anthony Marshall, the user has always been at the forefront of what I do, even before I took the coding plunge. How so? For over 15 years, I immersed myself in the demanding but rewarding realm of customer service across various industries. This experience has given me a profound understanding of people, their pain points, their desires, and the tiny inconveniences they face that technology can solve. It's this very human-centric perspective that I bring into my life as a full-stack developer today.
 
@@ -15,4 +13,6 @@ Now, as I step into the professional world of software development, I am keen on
 So, whether you’re a company looking for a developer who understands both people and machines, or a project manager in need of someone who gets the bigger picture, I’m your guy. Let’s connect and build something meaningful and user-focused together.
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-# ISTAFAMARSHALL
+
+
+![Istafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
