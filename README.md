@@ -8,6 +8,28 @@ My recent graduation from Flatiron School was an exhilarating period of growth. 
 
 The beauty of coupling technical skills with customer service acumen—you start to see technology not just as code, but as an experience, an interface between people and machines that should be as smooth as possible. I'm not just a developer; I am an experience creator. I don’t just solve problems; I anticipate them. As I continue to learn and grow in this ever-evolving field, my mission is simply to create innovative, user-centric applications that solve real-world problems and make people's lives a little bit easier.
 
+[I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
+
 
 Get In Touch
 #0A66C2 #181717 #000000
