@@ -16,7 +16,8 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[#0A66C2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://simpleicons.org/icons/github.svg "GitHub"
+
 
 [#0A66C2](https://www.google.com)
 
