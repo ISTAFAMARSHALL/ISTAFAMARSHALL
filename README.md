@@ -12,7 +12,13 @@ Get in Touch
 ---
 
 <a href="https://www.linkedin.com/in/istafa-a-marshall/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35">
+</a>
+<a href="https://github.com/ISTAFAMARSHALL/">
+  <img src="src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35">
+</a>
+<a href="https://medium.com/@istafa.a.marshall/">
+  <img src="https://img.icons8.com/?size=1x&id=NO8It5EgLtpM&format=png" alt="Medium" width="35" height="35">
 </a>
 [![GitHub](https://img.icons8.com/?size=1x&id=AZOZNnY73haj&format=png)](https://github.com/ISTAFAMARSHALL/)
 [![Medium](https://img.icons8.com/?size=1x&id=NO8It5EgLtpM&format=png)](https://medium.com/@istafa.a.marshall/)
