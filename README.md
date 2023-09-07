@@ -10,5 +10,5 @@ The beauty of coupling technical skills with customer service acumen—you start
 
 ---
 
-[![Linkedinß](https://img.icons8.com/3d-fluency/1x/linkedin.png)](https://www.linkedin.com/)
+[![Linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png) Linkedin](https://www.linkedin.com/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
