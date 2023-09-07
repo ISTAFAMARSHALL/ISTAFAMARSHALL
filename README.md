@@ -10,6 +10,8 @@ The beauty of coupling technical skills with customer service acumen—you start
 
 Get in Touch
 ---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="35" height="35"/>
+          
 [![Linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/istafa-a-marshall/)
 [![GitHub](https://img.icons8.com/?size=1x&id=AZOZNnY73haj&format=png)](https://github.com/ISTAFAMARSHALL/)
 [![Medium](https://img.icons8.com/?size=1x&id=NO8It5EgLtpM&format=png)](https://medium.com/@istafa.a.marshall/)
