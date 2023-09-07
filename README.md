@@ -9,7 +9,8 @@ My recent graduation from Flatiron School was an exhilarating period of growth. 
 The beauty of coupling technical skills with customer service acumen—you start to see technology not just as code, but as an experience, an interface between people and machines that should be as smooth as possible. I'm not just a developer; I am an experience creator. I don’t just solve problems; I anticipate them. As I continue to learn and grow in this ever-evolving field, my mission is simply to create innovative, user-centric applications that solve real-world problems and make people's lives a little bit easier.
 
 ---
-
 [![Linkedin](https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/istafa-a-marshall/)
 [![GitHub](https://img.icons8.com/?size=1x&id=AZOZNnY73haj&format=png)](https://github.com/ISTAFAMARSHALL/)
 [![Medium](https://img.icons8.com/?size=1x&id=NO8It5EgLtpM&format=png)](https://medium.com/@istafa.a.marshall/)
+___
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
