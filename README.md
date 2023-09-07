@@ -16,6 +16,9 @@ Get in Touch
 </a>
 <a href="https://github.com/ISTAFAMARSHALL/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35">
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
 </a>
 <a href="https://medium.com/@istafa.a.marshall/">
   <img src="https://img.icons8.com/?size=1x&id=NO8It5EgLtpM&format=png" alt="Medium" width="35" height="35">
