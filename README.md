@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:VA6C2:3e0fb031-ac57-40e1-8ec8-b026978c038f;revision=0?component_id=4b559c9e-a54d-4427-ba74-72e236ad0557&api_key=projectx_webapp&access_token=1694181342_urn%3Aaaid%3Asc%3AVA6C2%3A3e0fb031-ac57-40e1-8ec8-b026978c038f%3Bpublic_ec101d39d184f8f3774af7d748eafbf0e96b6d19" width="1280" height="400"> 
+ <img src="https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:VA6C2:3e0fb031-ac57-40e1-8ec8-b026978c038f;revision=0?component_id=4b559c9e-a54d-4427-ba74-72e236ad0557&api_key=projectx_webapp&access_token=1694181342_urn%3Aaaid%3Asc%3AVA6C2%3A3e0fb031-ac57-40e1-8ec8-b026978c038f%3Bpublic_ec101d39d184f8f3774af7d748eafbf0e96b6d19" width="1280" height="320"> 
 </h1>
 For over 15 years, I immersed myself in the demanding but rewarding realm of customer service across various industries. This experience has given me a profound understanding of people, their pain points, their desires, and the tiny inconveniences they face that technology can solve. 
 
