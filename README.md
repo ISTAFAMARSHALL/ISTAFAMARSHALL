@@ -14,6 +14,7 @@ Get in Touch
 <a href="https://www.linkedin.com/in/istafa-a-marshall/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35">
 </a>
+___
 <a href="https://github.com/ISTAFAMARSHALL/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35">          
 </a>
