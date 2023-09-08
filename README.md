@@ -1,5 +1,6 @@
-Hello I'm Istafa 
-
+<h1 align="center">
+ <img src="[image-url-here](https://new.express.adobe.com/81b4bfee-322d-4ac6-b0a4-6b9380021d9d)" />
+</h1>
 For over 15 years, I immersed myself in the demanding but rewarding realm of customer service across various industries. This experience has given me a profound understanding of people, their pain points, their desires, and the tiny inconveniences they face that technology can solve. 
 
 I've come to realize that good service is not just about immediate solutions it's about creating systems that anticipate needs and address them proactively. The same principle applies to technology. We don’t just need apps and websites that are functional; we need those that 'understand' the user. That’s why, after 15 years in customer service, I decided to turn toward software engineering as a second act in my professional journey. I wanted to create technological solutions as intuitive and responsive as a seasoned customer service rep.
