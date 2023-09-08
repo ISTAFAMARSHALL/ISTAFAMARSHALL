@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="Untitled.png" />
+ <img src="https://new.express.adobe.com/published/urn:aaid:sc:VA6C2:3e0fb031-ac57-40e1-8ec8-b026978c038f" width="1280" height="640">
 </h1>
 For over 15 years, I immersed myself in the demanding but rewarding realm of customer service across various industries. This experience has given me a profound understanding of people, their pain points, their desires, and the tiny inconveniences they face that technology can solve. 
 
